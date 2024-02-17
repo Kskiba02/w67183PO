@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="W67183PO.SamochodSportowy">
+    <Position X="13" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAACA=</HashCode>
+      <FileName>SamochodSportowy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pojazdy.Program">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAiARCAAAAAAIAEgAAAACBAAUAAAAIAAAEBAAAIAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Pojazd">
+    <Position X="10.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAAAAIACAAAAIgAAUAAAQIAAggAAIAAACA=</HashCode>
+      <FileName>Pojazd.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="W67183PO.MotocyklElektryczny">
+    <Position X="9.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAACA=</HashCode>
+      <FileName>MotocyklElektryczny.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="W67183PO.Motocykl">
+    <Position X="8.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACA=</HashCode>
+      <FileName>Motocykl.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Autobus">
+    <Position X="4.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACA=</HashCode>
+      <FileName>Autobus.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="W67183PO.AutobusTurystyczny">
+    <Position X="5.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAACA=</HashCode>
+      <FileName>AutobusTurystyczny.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="W67183PO.Samochod">
+    <Position X="13" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAACA=</HashCode>
+      <FileName>Samochod.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="W67183PO.Ciezarowka">
+    <Position X="13" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAACA=</HashCode>
+      <FileName>Ciezarowka.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
